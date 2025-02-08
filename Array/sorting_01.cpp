@@ -7,7 +7,7 @@ void sort(int arr[] , int size){
         if(arr[i] == 0){
             zero = zero + 1;
         }
-        if(arr[i] == 1){
+        if(arr[i] == 1){ 
             one = one + 1;
         }
     }
