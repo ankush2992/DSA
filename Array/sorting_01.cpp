@@ -13,8 +13,7 @@ void sort(int arr[] , int size){
     }
     int i = 0;
     for(; i<zero ; i++){
-        arr[i] = 0;git add . && git commit -m "Updated code" && git push
-
+        arr[i] = 0;
     }
     for(; i<size; i++){
         arr[i] = 1 ; 
